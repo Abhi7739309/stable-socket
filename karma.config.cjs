@@ -33,3 +33,6 @@ module.exports = function (config) {
     concurrency: Infinity
   })
 }
+in 
+  log info
+out
