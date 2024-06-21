@@ -108,7 +108,7 @@ try {
 ```
 npm install
 npm test
- nps test in```
+ npm test in```
 
 ## License
 
