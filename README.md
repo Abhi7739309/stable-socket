@@ -1,4 +1,4 @@
-
+ nps test in
 
 in
 # StableSocket
@@ -108,7 +108,7 @@ try {
 ```
 npm install
 npm test
-```
+ nps test in```
 
 ## License
 
